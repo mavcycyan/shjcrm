@@ -1,0 +1,10 @@
+@media print {
+    .non-print,
+    .print-check,
+    .header-menu-container,
+    header,
+    footer,
+    .bottom-cw{
+        display: none !important;
+    }
+}

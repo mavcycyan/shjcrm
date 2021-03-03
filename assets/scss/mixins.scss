@@ -1,0 +1,19 @@
+/*Mixins*/
+$spaceamounts: (5, 10, 15, 20, 25, 30, 35, 40, 45, 50,60,65,70, 75,80,85,90,95, 100); // Adjust this to include the pixel amounts you need.
+
+@each $space in $spaceamounts {
+  .mb-#{$space}px {
+    margin-bottom: #{$space}px !important;
+  }
+}
+@mixin font($weight,$size) {
+  font-family: $fonts;
+  font-weight: $weight;
+  font-size: $size;
+}
+
+@mixin bg($img-name, $type, $position, $repeat) {
+  background-image: url('../images/#{$img-name}.#{$type}');
+  background-position: $position;
+  background-repeat: $repeat;
+}

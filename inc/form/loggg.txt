@@ -1,0 +1,151 @@
+Array
+(
+    [term_id] => 10
+    [term_taxonomy_id] => 10
+)
+Array
+(
+    [term_id] => 10
+    [term_taxonomy_id] => 10
+)
+Array
+(
+    [term_id] => 10
+    [term_taxonomy_id] => 10
+)
+Array
+(
+    [term_id] => 10
+    [term_taxonomy_id] => 10
+)
+Array
+(
+    [term_id] => 10
+    [term_taxonomy_id] => 10
+)
+Array
+(
+    [term_id] => 10
+    [term_taxonomy_id] => 10
+)
+Array
+(
+    [id] => 10
+    [type] => sites
+    [is_cont] => cont
+    [name] => Abu Shagara
+    [description] => asdasfasd
+    [image] => 
+    [image-id] => 20
+)
+Array
+(
+    [id] => 10
+    [type] => sites
+    [is_cont] => cont
+    [name] => Abu Shagara
+    [description] => industry\'s standard dummy text ever since the 1500s, when an industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and industry\'s standard dummy text ever since the 1500s,
+    [image] => 
+    [image-id] => 20
+)
+Array
+(
+    [id] => 62
+    [type] => objects
+    [is_cont] => cont
+    [image] => Screenshot_2.png
+    [image-id] => 
+    [image-arr-0] => 343
+    [name] => Test object
+    [description] => asfasdasd 
+)
+Array
+(
+    [id] => 62
+    [type] => objects
+    [is_cont] => cont
+    [image] => Screenshot_2.png
+    [image-id] => 
+    [name] => Test object
+    [description] => asfasdasd 
+)
+Array
+(
+    [id] => 62
+    [type] => objects
+    [is_cont] => cont
+    [image] => Screenshot_2.png
+    [image-id] => 345
+    [name] => Test object
+    [description] => asfasdasd 
+)
+Array
+(
+    [id] => 10
+    [type] => sites
+    [is_cont] => exit
+    [image] => 
+    [image-id] => 20
+    [name] => Abu Shagara
+    [description] => industry\'s standard dummy text ever since the 1500s, when an industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and industry\'s standard dummy text ever since the 1500s,
+)
+Array
+(
+    [id] => 72
+    [type] => objects
+    [is_cont] => cont
+    [image] => New Microsoft Word Document (2),,.jpg
+    [image-id] => 
+    [name] => Dish
+    [description] => 
+)
+Array
+(
+    [id] => 72
+    [type] => objects
+    [is_cont] => cont
+    [image] => New Microsoft Word Document (2),,.jpg
+    [image-id] => 381
+    [name] => Dish
+    [description] => 
+)
+Array
+(
+    [id] => 72
+    [type] => objects
+    [is_cont] => exit
+    [image] => 
+    [image-id] => 381
+    [name] => Dish
+    [description] => 
+)
+Array
+(
+    [id] => 2
+    [type] => sites
+    [is_cont] => exit
+    [image] => 
+    [image-id] => 20
+    [name] => Pending Site
+    [description] => industry\'s standard dummy text ever since the 1500s, when an industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
+)
+Array
+(
+    [id] => 6
+    [type] => sites
+    [is_cont] => cont
+    [image] => 
+    [image-id] => 20
+    [name] => Al Hamriyah
+    [description] => 
+)
+Array
+(
+    [id] => 6
+    [type] => sites
+    [is_cont] => exit
+    [image] => 
+    [image-id] => 20
+    [name] => Al Hamriyah
+    [description] => 
+)

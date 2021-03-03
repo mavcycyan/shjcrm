@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Tajawal';
+  src: url('../fonts/tajawal-regular-webfont.eot');
+  src: url('../fonts/tajawal-regular-webfont.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/tajawal-regular-webfont.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Tajawal';
+  src: url('../fonts/tajawal-bold-webfont.eot');
+  src: url('../fonts/tajawal-bold-webfont.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/tajawal-bold-webfont.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Tajawal';
+  src: url('../fonts/tajawal-light-webfont.eot');
+  src: url('../fonts/tajawal-light-webfont.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/tajawal-light-webfont.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Tajawal';
+  src: url('../fonts/tajawal-medium-webfont.eot');
+  src: url('../fonts/tajawal-medium-webfont.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/tajawal-medium-webfont.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&subset=cyrillic');
+$fonts: "Tajawal" , sans-serif;
+$fonts2:"Roboto",sans-serif;
